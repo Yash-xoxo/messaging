@@ -37,7 +37,7 @@ Before you begin, ensure you have the following:
    
 Create and activate a virtual environment:
 
-```
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
@@ -46,8 +46,9 @@ Install the required packages:
 
 ```
 pip install -r requirements.txt
-Or install them manually:
 ```
+Or install them manually:
+
 
 ```
 pip install streamlit twilio requests tweepy python-linkedin
