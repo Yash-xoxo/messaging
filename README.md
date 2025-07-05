@@ -2,7 +2,7 @@
 
 A Streamlit-based application that allows you to send messages across multiple platforms including WhatsApp, Instagram, Email, SMS, Phone Calls, LinkedIn, and Twitter.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](pic/ss1.png)
 
 ## Features
 
@@ -13,6 +13,10 @@ A Streamlit-based application that allows you to send messages across multiple p
 - **Phone Calls**: Make automated phone calls with text-to-speech
 - **LinkedIn**: Create posts on your LinkedIn profile
 - **Twitter**: Post tweets to your Twitter account
+
+
+![](pic/ss2.png)
+
 
 ## Prerequisites
 
